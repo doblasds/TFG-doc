@@ -1,10 +1,10 @@
-# Trabajo de Fin de Grado: *Título*
+# Trabajo de Fin de Grado: *Sistemas de posicionamiento indoor de bajo coste para UAVs*
 
 **Este sería el README de tu proyecto. Consulta las [instrucciones de
 instalación](INSTALL.md)
 
-### Autor(a): Nombre
-### Tutor(a)(es): Nombre(s)
+### Autor(a): Carlos Doblas Sánchez
+### Tutor(a)(es): Alvaro Martínez Novo y Samuel Romero García
 ___
 
 La documentación de este proyecto está realizada con `LaTeX`, por lo
